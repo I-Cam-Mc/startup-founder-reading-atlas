@@ -1,0 +1,9 @@
+.DS_Store
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.zip
+*.7z
+.env*

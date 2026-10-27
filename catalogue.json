@@ -1,0 +1,841 @@
+{
+  "schemaVersion": 1,
+  "title": "Startup Founder Reading Atlas",
+  "curator": "Iain McIntyre",
+  "updatedAt": "2026-10-28",
+  "websiteUrl": "https://www.iainmc.com/reading",
+  "access": {
+    "requestEmail": "juno@iainmc.com",
+    "requestSubject": "Startup Founder Reading Atlas access",
+    "requestUrl": "mailto:juno@iainmc.com?subject=Startup%20Founder%20Reading%20Atlas%20access&body=Hi%20Iain%2C%0A%0AI%20would%20like%20to%20request%20a%20reading%20link%20for%20the%20Startup%20Founder%20Reading%20Atlas.%0A%0ATitles%20or%20topics%20I%20am%20interested%20in%3A%0A%0AThanks!",
+    "notebookUrl": "https://notebook.google.com/notebook/031dc2e2-2ea1-45f4-899e-c02bf1cd7d6f",
+    "notebookAccess": "restricted",
+    "notebookCatalogueCoverage": "partial"
+  },
+  "collectionStateDefinitions": {
+    "owned": "On my shelf",
+    "to-get": "To get"
+  },
+  "notes": [
+    "Collection state records ownership, not reading completion or endorsement.",
+    "A title may belong to more than one topic.",
+    "Bibliography links identify works and authors; they do not specify the edition of every personal copy."
+  ],
+  "topics": [
+    {
+      "id": "product-and-customer-learning",
+      "label": "Product and customer learning"
+    },
+    {
+      "id": "ux-and-service-design",
+      "label": "UX and service design"
+    },
+    {
+      "id": "ai-deployment-and-human-centred-agency",
+      "label": "AI deployment and human-centred agency"
+    },
+    {
+      "id": "founding-sales-and-commercial-delivery",
+      "label": "Founding, sales and commercial delivery"
+    },
+    {
+      "id": "leadership-systems-and-personal-practice",
+      "label": "Leadership, systems and personal practice"
+    }
+  ],
+  "works": [
+    {
+      "id": "rythm-dreem-technology-overview",
+      "title": "A Scientific Overview of Rythm’s Technology: the Dreem Headband",
+      "authors": [
+        "Rythm"
+      ],
+      "type": "white-paper",
+      "collectionState": "owned",
+      "topicIds": [
+        "ux-and-service-design",
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.nanalyze.com/app/uploads/2017/01/rythm_whitepaper.pdf"
+    },
+    {
+      "id": "ai-engineering",
+      "title": "AI Engineering",
+      "authors": [
+        "Chip Huyen"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/"
+    },
+    {
+      "id": "atomic-habits",
+      "title": "Atomic Habits",
+      "authors": [
+        "James Clear"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/543993/atomic-habits-by-james-clear/9780735211292/"
+    },
+    {
+      "id": "bad-blood",
+      "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+      "authors": [
+        "John Carreyrou"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/549478/bad-blood-by-john-carreyrou/"
+    },
+    {
+      "id": "becoming-supernatural",
+      "title": "Becoming Supernatural",
+      "authors": [
+        "Joe Dispenza"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://shop.hayhouse.com/products/becoming-supernatural"
+    },
+    {
+      "id": "building-a-storybrand",
+      "title": "Building a StoryBrand",
+      "authors": [
+        "Donald Miller"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://harpercollins.co.uk/products/building-a-storybrand-donald-miller"
+    },
+    {
+      "id": "continuous-discovery-habits",
+      "title": "Continuous Discovery Habits",
+      "authors": [
+        "Teresa Torres"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "ux-and-service-design"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://www.producttalk.org/continuous-discovery-habits/"
+    },
+    {
+      "id": "crucial-conversations",
+      "title": "Crucial Conversations: Tools for Talking When Stakes Are High",
+      "authors": [
+        "Kerry Patterson",
+        "Joseph Grenny",
+        "Ron McMillan",
+        "Al Switzler"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://cruciallearning.com/books/"
+    },
+    {
+      "id": "extreme-ownership",
+      "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+      "authors": [
+        "Jocko Willink",
+        "Leif Babin"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://us.macmillan.com/books/9781250183866/extremeownership/"
+    },
+    {
+      "id": "flawless-consulting",
+      "title": "Flawless Consulting",
+      "authors": [
+        "Peter Block"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency",
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.wiley.com/en-us/Flawless+Consulting%3A+A+Guide+to+Getting+Your+Expertise+Used%2C+4th+Edition-p-9781394177318"
+    },
+    {
+      "id": "founders-at-work",
+      "title": "Founders at Work",
+      "authors": [
+        "Jessica Livingston"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://link.springer.com/book/10.1007/978-1-4302-0327-8"
+    },
+    {
+      "id": "homo-deus",
+      "title": "Homo Deus: A Brief History of Tomorrow",
+      "authors": [
+        "Yuval Noah Harari"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.ynharari.com/book/homo-deus/"
+    },
+    {
+      "id": "hooked",
+      "title": "Hooked: How to Build Habit-Forming Products",
+      "authors": [
+        "Nir Eyal",
+        "Ryan Hoover"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "ux-and-service-design"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.nirandfar.com/hooked/"
+    },
+    {
+      "id": "how-to-win-friends",
+      "title": "How to Win Friends and Influence People",
+      "authors": [
+        "Dale Carnegie"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.simonandschuster.com/books/How-to-Win-Friends-and-Influence-People/Dale-Carnegie/Dale-Carnegie-Books/9781982171452"
+    },
+    {
+      "id": "human-centered-ai",
+      "title": "Human-Centered AI",
+      "authors": [
+        "Ben Shneiderman"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "ux-and-service-design",
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://academic.oup.com/book/41126"
+    },
+    {
+      "id": "inspired",
+      "title": "Inspired: How to Create Tech Products Customers Love",
+      "authors": [
+        "Marty Cagan"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love-2nd-edition/"
+    },
+    {
+      "id": "interviewing-users",
+      "title": "Interviewing Users",
+      "authors": [
+        "Steve Portigal"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "ux-and-service-design"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://rosenfeldmedia.com/books/interviewing-users-second-edition/"
+    },
+    {
+      "id": "leadership-strategy-and-tactics",
+      "title": "Leadership Strategy and Tactics: Field Manual",
+      "authors": [
+        "Jocko Willink"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://static.macmillan.com/static/smp/leadership-expanded-edition/"
+    },
+    {
+      "id": "lean-analytics",
+      "title": "Lean Analytics",
+      "authors": [
+        "Alistair Croll",
+        "Benjamin Yoskovitz"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://leananalyticsbook.com/"
+    },
+    {
+      "id": "lean-in",
+      "title": "Lean In",
+      "authors": [
+        "Sheryl Sandberg"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://leanin.org/book"
+    },
+    {
+      "id": "mapping-experiences",
+      "title": "Mapping Experiences",
+      "authors": [
+        "Jim Kalbach"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "ux-and-service-design"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.oreilly.com/library/view/mapping-experiences-2nd/9781492076629/"
+    },
+    {
+      "id": "mastering-the-market-cycle",
+      "title": "Mastering the Market Cycle: Getting the Odds on Your Side",
+      "authors": [
+        "Howard Marks"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.harpercollins.com/products/mastering-the-market-cycle-howard-marks"
+    },
+    {
+      "id": "mastering-the-requirements-process",
+      "title": "Mastering the Requirements Process",
+      "authors": [
+        "James Robertson",
+        "Suzanne Robertson",
+        "Adrian Reed"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.informit.com/store/mastering-the-requirements-process-9780137969555"
+    },
+    {
+      "id": "mindset",
+      "title": "Mindset: The New Psychology of Success",
+      "authors": [
+        "Carol S. Dweck"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/44330/mindset-by-carol-s-dweck-phd/9780345472328/"
+    },
+    {
+      "id": "moral-ambition",
+      "title": "Moral Ambition: Stop Wasting Your Talent and Start Making a Difference",
+      "authors": [
+        "Rutger Bregman"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://rutgerbregman.com/books/moral-ambition"
+    },
+    {
+      "id": "no-bs-marketing-to-the-affluent",
+      "title": "No B.S. Marketing to the Affluent",
+      "authors": [
+        "Dan S. Kennedy"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.simonandschuster.com/books/No-B-S-Marketing-to-the-Affluent-%28Fourth-Edition%29/Dan-S-Kennedy/9781642011838"
+    },
+    {
+      "id": "obviously-awesome",
+      "title": "Obviously Awesome",
+      "authors": [
+        "April Dunford"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.aprildunford.com/books"
+    },
+    {
+      "id": "paul-graham-essays-collection",
+      "title": "Paul Graham essays (collection)",
+      "authors": [
+        "Paul Graham"
+      ],
+      "type": "essay-collection",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://paulgraham.com/articles.html"
+    },
+    {
+      "id": "principles",
+      "title": "Principles: Life and Work",
+      "authors": [
+        "Ray Dalio"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.simonandschuster.net/books/Principles/Ray-Dalio/Principles/9781501124020"
+    },
+    {
+      "id": "near-infrared-spectra-cytochrome-c-oxidase",
+      "title": "Re-evaluation of the near infrared spectra of mitochondrial cytochrome c oxidase: Implications for non invasive in vivo monitoring of tissues",
+      "authors": [
+        "M. G. Mason",
+        "P. Nicholls",
+        "C. E. Cooper"
+      ],
+      "type": "research-paper",
+      "collectionState": "owned",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4331044/"
+    },
+    {
+      "id": "sapiens",
+      "title": "Sapiens: A Brief History of Humankind",
+      "authors": [
+        "Yuval Noah Harari"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.ynharari.com/book/sapiens/"
+    },
+    {
+      "id": "secrets-of-sand-hill-road",
+      "title": "Secrets of Sand Hill Road: Venture Capital and How to Get It",
+      "authors": [
+        "Scott Kupor"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/607128/secrets-of-sand-hill-road-by-scott-kupor-foreword-by-eric-ries/"
+    },
+    {
+      "id": "service-design",
+      "title": "Service Design: From Insight to Implementation",
+      "authors": [
+        "Lavrans Løvlie",
+        "Andy Polaine",
+        "Ben Reason"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "ux-and-service-design"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://rosenfeldmedia.com/books/service-design-second-edition/"
+    },
+    {
+      "id": "shape-up",
+      "title": "Shape Up",
+      "authors": [
+        "Ryan Singer"
+      ],
+      "type": "book",
+      "collectionState": "to-get",
+      "topicIds": [
+        "product-and-customer-learning",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://basecamp.com/shapeup"
+    },
+    {
+      "id": "shoe-dog",
+      "title": "Shoe Dog: A Memoir by the Creator of Nike",
+      "authors": [
+        "Phil Knight"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.simonandschuster.com/books/Shoe-Dog/Phil-Knight/9781501135910"
+    },
+    {
+      "id": "sprint",
+      "title": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+      "authors": [
+        "Jake Knapp",
+        "John Zeratsky",
+        "Braden Kowitz"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "ux-and-service-design"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://www.simonandschuster.com/books/Sprint/Jake-Knapp/9781501121746"
+    },
+    {
+      "id": "startup-genome-report-1",
+      "title": "Startup Genome Report 1: Why Startups Succeed",
+      "authors": [
+        "Max Marmer",
+        "Bjoern Lasse Herrmann",
+        "Ron Berman"
+      ],
+      "type": "report",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://startupgenome.com/report/why-startups-succeed/about-startup-genome"
+    },
+    {
+      "id": "steve-jobs",
+      "title": "Steve Jobs",
+      "authors": [
+        "Walter Isaacson"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ux-and-service-design",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.simonandschuster.com/books/Steve-Jobs/Walter-Isaacson/9781982176860"
+    },
+    {
+      "id": "talking-to-strangers",
+      "title": "Talking to Strangers: What We Should Know About the People We Don’t Know",
+      "authors": [
+        "Malcolm Gladwell"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://gladwell.com/books/talking-to-strangers"
+    },
+    {
+      "id": "the-4-hour-workweek",
+      "title": "The 4-Hour Workweek",
+      "authors": [
+        "Timothy Ferriss"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/49081/the-4-hour-workweek-expanded-and-updated-by-timothy-ferriss/"
+    },
+    {
+      "id": "the-buying-brain",
+      "title": "The Buying Brain: Secrets for Selling to the Subconscious Mind",
+      "authors": [
+        "A. K. Pradeep"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ux-and-service-design",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119200079"
+    },
+    {
+      "id": "the-distracted-mind",
+      "title": "The Distracted Mind: Ancient Brains in a High-Tech World",
+      "authors": [
+        "Adam Gazzaley",
+        "Larry D. Rosen"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ux-and-service-design",
+        "ai-deployment-and-human-centred-agency",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://mitpress.mit.edu/9780262034944/the-distracted-mind/"
+    },
+    {
+      "id": "the-fellowship-of-the-ring",
+      "title": "The Fellowship of the Ring",
+      "authors": [
+        "J. R. R. Tolkien"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/179203/the-fellowship-of-the-ring-by-jrr-tolkien/"
+    },
+    {
+      "id": "the-form-within",
+      "title": "The Form Within: My Point of View",
+      "authors": [
+        "Karl H. Pribram"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.karlpribram.com/books-monographs/"
+    },
+    {
+      "id": "the-hard-thing-about-hard-things",
+      "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+      "authors": [
+        "Ben Horowitz"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.harpercollins.com/products/the-hard-thing-about-hard-things-ben-horowitz"
+    },
+    {
+      "id": "the-laws-of-simplicity",
+      "title": "The Laws of Simplicity",
+      "authors": [
+        "John Maeda"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ux-and-service-design",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://mitpress.mit.edu/9780262539470/the-laws-of-simplicity/"
+    },
+    {
+      "id": "the-lean-startup",
+      "title": "The Lean Startup",
+      "authors": [
+        "Eric Ries"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://www.penguinrandomhouse.com/books/210088/the-lean-startup-by-eric-ries/"
+    },
+    {
+      "id": "the-mom-test",
+      "title": "The Mom Test",
+      "authors": [
+        "Rob Fitzpatrick"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning",
+        "founding-sales-and-commercial-delivery"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://www.momtestbook.com/"
+    },
+    {
+      "id": "the-relativistic-brain",
+      "title": "The Relativistic Brain: How It Works and Why It Cannot Be Simulated by a Turing Machine",
+      "authors": [
+        "Ronald Cicurel",
+        "Miguel A. L. Nicolelis"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "ai-deployment-and-human-centred-agency"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.researchgate.net/publication/275024071_The_Relativistic_Brain_How_it_works_and_why_it_is_not_stimulable_by_a_Turing_Machine"
+    },
+    {
+      "id": "the-scrum-primer-2",
+      "title": "The Scrum Primer 2.0",
+      "authors": [
+        "Pete Deemer",
+        "Gabrielle Benefield",
+        "Craig Larman",
+        "Bas Vodde"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://scrumprimer.org/resources/about"
+    },
+    {
+      "id": "the-subtle-art",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "authors": [
+        "Mark Manson"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://markmanson.net/books/subtle-art"
+    },
+    {
+      "id": "what-you-do-is-who-you-are",
+      "title": "What You Do Is Who You Are",
+      "authors": [
+        "Ben Horowitz"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "founding-sales-and-commercial-delivery",
+        "leadership-systems-and-personal-practice"
+      ],
+      "currentFocus": false,
+      "bibliographySourceUrl": "https://www.harpercollins.com/products/what-you-do-is-who-you-are-ben-horowitz"
+    },
+    {
+      "id": "when-coffee-and-kale-compete",
+      "title": "When Coffee and Kale Compete",
+      "authors": [
+        "Alan Klement"
+      ],
+      "type": "book",
+      "collectionState": "owned",
+      "topicIds": [
+        "product-and-customer-learning"
+      ],
+      "currentFocus": true,
+      "bibliographySourceUrl": "https://www.alanklement.com/"
+    }
+  ]
+}
